@@ -4,7 +4,7 @@
 
 Visit the below link:
 
-[hacktober.madhacks.co](http://hacktober.madhacks.co/)
+[http://hacktoberfest-ajce.surge.sh/](http://hacktoberfest-ajce.surge.sh/)
 
 ## Instructions
 
