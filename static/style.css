@@ -196,14 +196,21 @@ hr {
 }
 
 .btn {
-    background-color:#01FFFF;
     border: none;
-    color: #582D41;
+    color: #fff;
     width: 220px;
     padding: 8px;
     font-size: 1.4em;
     cursor: pointer;
     margin-left:5px;
+}
+
+.btn-fb {
+    background-color:#3b5998;
+}
+
+.btn-twitter {
+    background-color: #38A1F3
 }
 
 .meetupagenda {
@@ -214,7 +221,7 @@ hr {
 
 .btn:hover {
     box-shadow: 0 0.5vw 1vw 0 rgba(0,0,0,0.2), 0 0.5vw 1.5vw 0 rgba(0,0,0,0.19);
-    color: #582D41;
+    color: floralwhite;
 }
 
 h4{
@@ -222,21 +229,21 @@ h4{
     padding-top:1vw;
 }
 
-.details-img{
+.details-img {
     width: 8vw;
 }
 
-.footer-img{
+.footer-img {
     width:500px; 
     max-width:60%;
     margin-top:8%;
 }
 
-.sponsors-logo{
+.sponsors-logo {
     width: 30%;
 }
 
-.footer-text{
+.footer-text {
     width: 20%;
 }
 
